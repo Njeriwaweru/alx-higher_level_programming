@@ -7,10 +7,4 @@ def search_replace(my_list, search, replace):
         else:
             copy.append(my_list[i])
     return copy
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
 
